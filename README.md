@@ -14,6 +14,7 @@ This is a web based application developed for health related based website in in
 ## Azure technologies used for Project
 
 - Static web app
+- Azure Health Bot
 
 ## Features and Functionalities 😃
 
