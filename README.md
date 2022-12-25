@@ -27,18 +27,17 @@ This is a web based application developed for health related based website in in
 - Yoga is very helpful to keep the body fit.
 - People can know the importance of Yoga.
 ## Screenshots-
-<img width="960" alt="Screenshot 2022-12-02 135033" src="https://user-images.githubusercontent.com/117339933/205252781-09f8bb5c-5a35-4cd4-a553-65ccad8ed24f.png">
+<img width="960" alt="1" src="https://user-images.githubusercontent.com/117339933/209469116-018f44e1-9277-422f-8ff7-30189aca3daa.png">
+About us-
+<img width="960" alt="2" src="https://user-images.githubusercontent.com/117339933/209469161-0509ef45-42a8-46fd-9dae-344f7d5b851c.png">
+Classes-
+<img width="960" alt="3" src="https://user-images.githubusercontent.com/117339933/209469270-9ab0c90f-34a9-4ecc-beaf-6feb04240be7.png">
+Contact us-
+<img width="960" alt="4" src="https://user-images.githubusercontent.com/117339933/209469209-fb3b5bff-0f2d-44cb-af55-364f4815d39e.png">
+Health bot-
+ <img width="960" alt="5" src="https://user-images.githubusercontent.com/117339933/209469226-91b41efe-7663-413f-8048-c7039b9d900d.png">
 
-### About Us -
-<img width="960" alt="Screenshot 2022-12-02 134953" src="https://user-images.githubusercontent.com/117339933/205252997-ca044b93-d4ae-47a9-af26-3ddb9f8220be.png">
-
-### Contact us -
-<img width="958" alt="Screenshot 2022-12-02 134708" src="https://user-images.githubusercontent.com/117339933/205253331-25f63454-e675-44b6-ae29-d7fbcdd78396.png">
-
-### Project dashboard-
-<img width="723" alt="Screenshot 2022-12-02 141026" src="https://user-images.githubusercontent.com/117339933/205253837-45a434d0-1dfd-490d-adbb-a7d6803ce05f.png">
-
-## Tech Stack 💻
+## Tech Stack💻
 
 - [Azure(Hosting)]
 - HTML
